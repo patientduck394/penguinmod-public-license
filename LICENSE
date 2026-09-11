@@ -1,43 +1,28 @@
 ================================================================================
 PENGUINMOD PUBLIC LICENSE (PMPL)
-Version 1.1, September 2026
+Version 1.2, September 2026
 ================================================================================
 
 1. GRANT OF PERMISSION
-Subject to the terms and conditions set forth in this License, the author 
-hereby grants any person obtaining a copy of this software and associated 
-documentation files (the "Software") permission to deal in the 
-Software, including without limitation the rights to use, copy, modify, 
-merge, publish, distribute, sublicense, and/or sell copies of the 
-Software, subject to the restrictions in Section 2 and Section 3.
+Subject to the terms and conditions set forth in this License, 
+the author hereby grants any person obtaining a copy of this software and associated documentation files (the "Software") permission to deal in the Software, 
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, 
+subject to the restrictions in Section 2, Section 3, and Section 4.
 
 2. MODIFICATION REQUIREMENT AND CONTENT ID RESTRICTION
-A. No Unmodified Redistribution: Licensees may not distribute, sublicense, 
-or make available any verbatim or unchanged version of the Software or 
-associated artistic works that remains subject to copyright without making 
-substantial creative changes or modifications to the work first.
-
-B. Anti-Fingerprinting and Content ID Prohibition: Licensees, copyright 
-holders, and any downstream distributors are strictly prohibited from 
-registering, submitting, or enrolling this Software, its derivative works, 
-or any portion thereof into automated copyright management systems, Content ID 
-databases, digital fingerprinting registries, or automated rights-enforcement 
-platforms that restrict public or third-party use.
+A. No Unmodified Redistribution: Licensees may not distribute, sublicense, or make available any verbatim or unchanged version of the Software or associated artistic works that remains subject to copyright 
+without making substantial creative changes or modifications to the work first.
+B. Anti-Fingerprinting and Content ID Prohibition: Licensees, copyright holders, and any downstream distributors are strictly prohibited from registering, submitting, or enrolling this Software, its derivative works, or any portion thereof into automated copyright management systems, Content ID databases, digital fingerprinting registries, or automated rights-enforcement platforms 
+that restrict public or third-party use.
 
 3. TRADEMARK AND MASCOT OPEN-SOURCE REQUIREMENT
-Notwithstanding the broad permissions granted in Section 1, any and all mascots, 
-logos, branding elements, characters, and associated trademarks utilized, 
-displayed, or integrated in conjunction with the distribution or derivative 
-works of this Software must themselves be fully open-source and subject to free 
-public use, modification, and distribution terms. Proprietary, closed-source, 
-or restricted trademarks and mascots are strictly prohibited from being 
-associated with this work.
+Notwithstanding the broad permissions granted in Section 1, any and all mascots, logos, branding elements, characters, and associated trademarks utilized, displayed, or integrated in conjunction with the distribution or derivative works of this Software must themselves be fully open-source and subject to free public use, modification, and distribution terms. 
+Proprietary, closed-source, or restricted trademarks and mascots are strictly prohibited from being associated with this work.
 
-4. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE.
+4. WAIVER OF TEXTUAL COPYRIGHT
+The author hereby explicitly waives, releases, and disclaims any and all copyright claims over the literal wording, textual descriptions, and documentation files accompanying this Software, 
+dedicating all such wording entirely to public freedom to avoid any confusion whatsoever.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
