@@ -1,22 +1,21 @@
 ================================================================================
 PENGUINMOD PUBLIC LICENSE (PMPL)
-Version 1.3, September 2026
+Version 1.4, September 2026
 ================================================================================
 
 1. GRANT OF PERMISSION
 Subject to the terms and conditions set forth in this License, 
 the author hereby grants any person obtaining a copy of this software and associated documentation files (the "Software") permission to deal in the Software, 
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, 
-subject to the restrictions in Section 2, Section 3, and Section 4.
+subject to the restrictions in Section 2, Section 3, Section 4, and Section 5.
 
 2. MASCOT USAGE FREEDOM AND CONTENT ID RESTRICTION
-A. Mascot Usage Freedom: You agree that anyone else can use the mascot for their own business/company/brand.
-B. Anti-Fingerprinting and Content ID Prohibition: Licensees, copyright holders, and any downstream distributors are strictly prohibited from registering, submitting, or enrolling this Software, its derivative works, or any portion thereof into automated copyright management systems, Content ID databases, digital fingerprinting registries, or automated rights-enforcement platforms
-that restrict public or third-party use.
+A. Mascot Usage Freedom: You agree that anyone else can use the mascot, trade dress, and service marks for their own business/company/brand.
+B. Anti-Fingerprinting and Content ID Prohibition: Licensees, copyright holders, and any downstream distributors are strictly prohibited from registering, submitting, or enrolling this Software, its derivative works, or any portion thereof into automated copyright management systems, Content ID databases, digital fingerprinting registries, or automated rights-enforcement platforms that restrict public or third-party use.
 
-3. TRADEMARK AND MASCOT OPEN-SOURCE REQUIREMENT
-Notwithstanding the broad permissions granted in Section 1, any and all mascots, logos, branding elements, characters, and associated trademarks utilized, displayed, or integrated in conjunction with the distribution or derivative works of this Software must themselves be fully open-source and subject to free public use, modification, and distribution terms. 
-Proprietary, closed-source, or restricted trademarks and mascots are strictly prohibited from being associated with this work.
+3. TRADEMARK, SERVICE MARK, TRADE DRESS, AND PATENT OPEN-SOURCE REQUIREMENT
+Notwithstanding the broad permissions granted in Section 1, any and all mascots, logos, branding elements, characters, service marks, trade dress, patents, and associated trademarks utilized, displayed, or integrated in conjunction with the distribution or derivative works of this Software must themselves be fully open-source and subject to free public use, modification, and distribution terms. 
+Proprietary, closed-source, or restricted trademarks, service marks, trade dress, and patents are strictly prohibited from being associated with this work.
 
 4. WAIVER OF TEXTUAL COPYRIGHT
 The author hereby explicitly waives, releases, and disclaims any and all copyright claims over the literal wording, textual descriptions, and documentation files accompanying this Software, 
